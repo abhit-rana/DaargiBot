@@ -1,0 +1,18 @@
+[
+  {
+    "name": "suffering",
+    "pattern": "(\\bfrequently\\b|\\byes\\b|\\boften\\b|\\bsometimes\\b|\\bfacing\\b|\\bexperience\\b|\\bexperiencing\\b|\\baffected\\b|\\bnoticing\\b|\\bgetting\\b|\\bget\\b|\\baffecting\\b)"
+  },
+  {
+    "name": "notSuffering",
+    "pattern": "(\\bnot\\ \\[facing\\]\\{\"entity\":\\ \"suffering\"\\}\\b|\\bno\\b|\\bdidn't\\ \\[facing\\]\\{\"entity\":\\ \"suffering\"\\}\\b)"
+  },
+  {
+    "name": "PersonSuffering",
+    "pattern": "(\\bchild\\b|\\bhusband\\b|\\bwife\\b|\\bneigbour\\b|\\bkid\\b|\\bchildrens\\b|\\bstudents\\b)"
+  },
+  {
+    "name": "symptom",
+    "pattern": "(\\bdizziness\\b|\\bchest\\ tightness\\b|\\bburning\\ sensation\\ behind\\ the\\ breastbone\\b|\\bchest\\ tightness\\ and\\ shortness\\ of\\ breath\\b|\\bpain\\ behind\\ the\\ breastbone\\b|\\bacid\\ reflux\\b|\\bnausea\\b|\\bvomiting\\b|\\bhard\\ to\\ swallow\\b|\\bstomach\\ ache\\b|\\bbloating\\b|\\bpharynx\\ discomfort\\b|\\bexpectoration\\b|\\bcough\\b|\\bfever\\b|\\bpalpitations\\b|\\bdiarrhea\\b|\\bfeel\\ sick\\ and\\ vomit\\b|\\bloss\\ of\\ appetite\\b|\\bhiccup\\b|\\bthin\\b|\\banorexia\\b|\\bincreased\\ stool\\ frequency\\b|\\bedema\\b|\\bconstipation\\b|\\bbitter\\b|\\bthirst\\b|\\bhiccough\\b|\\bhemoptysis\\b|\\brunny\\ nose\\b|\\btwitch\\b|\\bsuppuration\\b|\\bchills\\ and\\ fever\\b|\\bblack\\ stool\\b|\\bsweating\\b|\\bshortness\\ of\\ breath\\b|\\bpoor\\ spirits\\b|\\bpoor\\ sleep\\b|\\bstuffy\\ nose\\b|\\bhoarse\\b|\\bhematemesis\\b|\\bfear\\ of\\ cold\\b|\\bbloody\\ stools\\b|\\bheadache\\b|\\bfatigue\\b|\\bdizzy\\b|\\bsyncope\\b|\\bconsciousness\\ disorder\\b|\\bsleep\\ disorder\\b|\\bbody\\ aches\\b|\\bblood\\ in\\ the\\ tears\\b|\\bdiplopia\\b|\\bdifficulty\\ breathing\\b|\\bfrequent\\ urination\\b|\\bhazy\\b|\\bbackache\\b|\\bnight\\ sweats\\b|\\bhematuria\\b|\\bpainful\\ urination\\b|\\bradiating\\ pain\\b|\\bdefecate\\b|\\bcyanosis\\b|\\bmucus\\ pus\\ and\\ blood\\ in\\ the\\ stool\\b|\\btensile\\ and\\ heavy\\b|\\brash\\b|\\bchills\\b|\\burgency\\b|\\bdecreased\\ urine\\ output\\b|\\babdominal\\ pain\\ and\\ diarrhea\\b|\\bsneeze\\b|\\bcry\\b|\\bwaist\\ pain\\b|\\bfirst\\ degree\\ swelling\\ of\\ bilateral\\ tonsils\\b|\\boliguria\\b|\\bafraid\\ of\\ cold\\b|\\bjoint\\ pain\\b|\\bitching\\b|\\bswelling\\ of\\ both\\ nasal\\ mucosa\\b|\\bitchy\\ eyes\\b|\\bear\\ itching\\b|\\bthin\\ white\\ moss\\b|\\bnasal\\ congestion\\b|\\binspiratory\\ tri\\-concave\\ sign\\b|\\btinnitus\\b|\\bvertigo\\b|\\bheadache\\ and\\ dizziness\\b|\\bpoor\\ physical\\ activity\\b|\\bpain\\ in\\ front\\ of\\ neck\\b|\\bredness\\b|\\bearache\\b|\\bsnore\\b|\\bulcer\\b|\\bright\\ earache\\b|\\bnose\\ bleeding\\b|\\bnasal\\ mucosal\\ congestion\\b|\\bhearing\\ loss\\b|\\bhand\\ tremor\\b|\\bproptosis\\b|\\bmild\\ thyroid\\ enlargement\\b|\\bafraid\\ of\\ heat\\b|\\bshaking\\ hands\\b|\\beye\\ swelling\\b|\\bvision\\ loss\\b|\\bhead\\ trauma\\ pain\\b|\\bunconsciousness\\b|\\bincontinence\\b|\\blimb\\ numbness\\b|\\bitchy\\ and\\ uncomfortable\\ eyes\\b|\\bjealous\\b|\\bphotophobia\\b|\\bpapule\\b|\\bcongestion\\ of\\ skin\\ and\\ mucous\\ membranes\\b|\\bdysmenorrhea\\b|\\bbreast\\ tenderness\\b|\\beye\\ pain\\b|\\blumbago\\b|\\bvaginal\\ bleeding\\b|\\bincreased\\ vaginal\\ discharge\\b)"
+  }
+]

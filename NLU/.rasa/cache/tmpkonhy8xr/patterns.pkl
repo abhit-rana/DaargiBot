@@ -1,0 +1,18 @@
+[
+  {
+    "name": "suffering",
+    "pattern": "(\\bfacing\\b|\\bexperiencing\\b|\\baffected\\b|\\bnoticing\\b|\\bgetting\\b|\\bget\\b|\\baffecting\\b)"
+  },
+  {
+    "name": "notSuffering",
+    "pattern": "(\\bnot\\ \\[experiencing\\]\\(suffering\\)\\b|\\bno\\b|\\bdidn't\\ \\[experiencing\\]\\(suffering\\)\\b)"
+  },
+  {
+    "name": "PersonSuffering",
+    "pattern": "(\\bchild\\b|\\bhusband\\b|\\bwife\\b|\\bneigbour\\b|\\bkid\\b|\\bchildrens\\b|\\bstudents\\b)"
+  },
+  {
+    "name": "symptom",
+    "pattern": "(\\bDizziness\\b|\\bChest\\ tightness\\b|\\bBurning\\ sensation\\ behind\\ the\\ breastbone\\b|\\bChest\\ tightness\\ and\\ shortness\\ of\\ breath\\b|\\bPain\\ behind\\ the\\ breastbone\\b|\\bAcid\\ reflux\\b|\\bNausea\\b|\\bVomiting\\b|\\bHard\\ to\\ swallow\\b|\\bStomach\\ ache\\b|\\bBloating\\b|\\bPharynx\\ discomfort\\b|\\bExpectoration\\b|\\bCough\\b|\\bFever\\b|\\bPalpitations\\b|\\bDiarrhea\\b|\\bFeel\\ sick\\ and\\ vomit\\b|\\bLoss\\ of\\ appetite\\b|\\bHiccup\\b|\\bThin\\b|\\bAnorexia\\b|\\bIncreased\\ stool\\ frequency\\b|\\bEdema\\b|\\bConstipation\\b|\\bBitter\\b|\\bThirst\\b|\\bHiccough\\b|\\bHemoptysis\\b|\\bRunny\\ nose\\b|\\bTwitch\\b|\\bSuppuration\\b|\\bChills\\ and\\ fever\\b|\\bBlack\\ stool\\b|\\bSweating\\b|\\bShortness\\ of\\ breath\\b|\\bPoor\\ spirits\\b|\\bPoor\\ sleep\\b|\\bStuffy\\ nose\\b|\\bHoarse\\b|\\bHematemesis\\b|\\bFear\\ of\\ cold\\b|\\bBloody\\ stools\\b|\\bHeadache\\b|\\bFatigue\\b|\\bDizzy\\b|\\bSyncope\\b|\\bConsciousness\\ disorder\\b|\\bSleep\\ disorder\\b|\\bBody\\ aches\\b|\\bBlood\\ in\\ the\\ tears\\b|\\bDiplopia\\b|\\bDifficulty\\ breathing\\b|\\bFrequent\\ urination\\b|\\bHazy\\b|\\bBackache\\b|\\bNight\\ sweats\\b|\\bHematuria\\b|\\bPainful\\ urination\\b|\\bRadiating\\ pain\\b|\\bDefecate\\b|\\bCyanosis\\b|\\bMucus\\ pus\\ and\\ blood\\ in\\ the\\ stool\\b|\\bTensile\\ and\\ heavy\\b|\\bRash\\b|\\bChills\\b|\\bUrgency\\b|\\bDecreased\\ urine\\ output\\b|\\bAbdominal\\ pain\\ and\\ diarrhea\\b|\\bSneeze\\b|\\bCry\\b|\\bWaist\\ pain\\b|\\bFirst\\ degree\\ swelling\\ of\\ bilateral\\ tonsils\\b|\\bOliguria\\b|\\bAfraid\\ of\\ cold\\b|\\bJoint\\ pain\\b|\\bItching\\b|\\bSwelling\\ of\\ both\\ nasal\\ mucosa\\b|\\bItchy\\ eyes\\b|\\bEar\\ itching\\b|\\bThin\\ white\\ moss\\b|\\bNasal\\ congestion\\b|\\bInspiratory\\ tri\\-concave\\ sign\\b|\\bTinnitus\\b|\\bVertigo\\b|\\bHeadache\\ and\\ dizziness\\b|\\bPoor\\ physical\\ activity\\b|\\bPain\\ in\\ front\\ of\\ neck\\b|\\bRedness\\b|\\bEarache\\b|\\bSnore\\b|\\bUlcer\\b|\\bRight\\ earache\\b|\\bNose\\ bleeding\\b|\\bNasal\\ mucosal\\ congestion\\b|\\bHearing\\ loss\\b|\\bHand\\ tremor\\b|\\bProptosis\\b|\\bMild\\ thyroid\\ enlargement\\b|\\bAfraid\\ of\\ heat\\b|\\bShaking\\ hands\\b|\\bEye\\ swelling\\b|\\bVision\\ loss\\b|\\bHead\\ trauma\\ pain\\b|\\bUnconsciousness\\b|\\bIncontinence\\b|\\bLimb\\ numbness\\b|\\bItchy\\ and\\ uncomfortable\\ eyes\\b|\\bJealous\\b|\\bPhotophobia\\b|\\bPapule\\b|\\bCongestion\\ of\\ skin\\ and\\ mucous\\ membranes\\b|\\bDysmenorrhea\\b|\\bBreast\\ tenderness\\b|\\bEye\\ pain\\b|\\bLumbago\\b|\\bVaginal\\ bleeding\\b|\\bIncreased\\ vaginal\\ discharge\\b)"
+  }
+]
