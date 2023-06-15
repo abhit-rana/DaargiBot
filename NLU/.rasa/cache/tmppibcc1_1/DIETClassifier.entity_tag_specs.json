@@ -1,0 +1,36 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-PersonSuffering",
+      "2": "I-PersonSuffering",
+      "3": "L-PersonSuffering",
+      "4": "U-PersonSuffering",
+      "5": "B-suffering",
+      "6": "I-suffering",
+      "7": "L-suffering",
+      "8": "U-suffering",
+      "9": "B-symptom",
+      "10": "I-symptom",
+      "11": "L-symptom",
+      "12": "U-symptom",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-PersonSuffering": 1,
+      "I-PersonSuffering": 2,
+      "L-PersonSuffering": 3,
+      "U-PersonSuffering": 4,
+      "B-suffering": 5,
+      "I-suffering": 6,
+      "L-suffering": 7,
+      "U-suffering": 8,
+      "B-symptom": 9,
+      "I-symptom": 10,
+      "L-symptom": 11,
+      "U-symptom": 12,
+      "O": 0
+    },
+    "num_tags": 13
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "suffering",
+    "pattern": "(\\bfrequently\\b|\\byes\\b|\\boften\\b|\\bsometimes\\b|\\bfacing\\b|\\bsuffers\\b|\\bexperience\\b|\\bexperiences\\b|\\bexperiencing\\b|\\baffected\\b|\\bnoticing\\b|\\bgetting\\b|\\bget\\b|\\baffecting\\b|\\bdoing\\b|\\bshowing\\b|\\bdevelops\\b)"
+  },
+  {
+    "name": "gratitude",
+    "pattern": "(\\bthanks\\b|\\bthank\\ you\\b|\\bthank\\ you\\ so\\ much\\b|\\btq\\b|\\btysm\\b)"
+  },
+  {
+    "name": "notSuffering",
+    "pattern": "(\\bnot\\ \\[facing\\]\\{\"entity\":\\ \"suffering\"\\}\\b|\\bno\\b|\\bdidn't\\b|\\bnot\\b|\\bdon't\\b|\\bdidn't\\ \\[facing\\]\\{\"entity\":\\ \"suffering\"\\}\\b)"
+  },
+  {
+    "name": "PersonSuffering",
+    "pattern": "(\\bchild\\b|\\bhusband\\b|\\bmother\\b|\\bwife\\b|\\bneigbour\\b|\\bkid\\b|\\bchildrens\\b|\\bstudents\\b)"
+  },
+  {
+    "name": "symptom",
+    "pattern": "(\\bitching\\b|\\bskin_rash\\b|\\bnodal_skin_eruptions\\b|\\bcontinuous_sneezing\\b|\\bshivering\\b|\\bchills\\b|\\bjoint_pain\\b|\\bstomach_pain\\b|\\bacidity\\b|\\bulcers_on_tongue\\b|\\bmuscle_wasting\\b|\\bvomiting\\b|\\bburning_micturition\\b|\\bspotting_urination\\b|\\bfatigue\\b|\\bweight_gain\\b|\\banxiety\\b|\\bcold_hands_and_feets\\b|\\bmood_swings\\b|\\bweight_loss\\b|\\brestlessness\\b|\\blethargy\\b|\\bpatches_in_throat\\b|\\birregular_sugar_level\\b|\\bcough\\b|\\bhigh_fever\\b|\\bsunken_eyes\\b|\\bbreathlessness\\b|\\bsweating\\b|\\bdehydration\\b|\\bindigestion\\b|\\bheadache\\b|\\byellowish_skin\\b|\\bdark_urine\\b|\\bnausea\\b|\\bloss_of_appetite\\b|\\bpain_behind_the_eyes\\b|\\bback_pain\\b|\\bconstipation\\b|\\babdominal_pain\\b|\\bdiarrhoea\\b|\\bmild_fever\\b|\\byellow_urine\\b|\\byellowing_of_eyes\\b|\\bacute_liver_failure\\b|\\bfluid_overload\\b|\\bswelling_of_stomach\\b|\\bswelled_lymph_nodes\\b|\\bmalaise\\b|\\bblurred_and_distorted_vision\\b|\\bphlegm\\b|\\bthroat_irritation\\b|\\bredness_of_eyes\\b|\\bsinus_pressure\\b|\\brunny_nose\\b|\\bcongestion\\b|\\bchest_pain\\b|\\bweakness_in_limbs\\b|\\bfast_heart_rate\\b|\\bpain_during_bowel_movements\\b|\\bpain_in_anal_region\\b|\\bbloody_stool\\b|\\birritation_in_anus\\b|\\bneck_pain\\b|\\bdizziness\\b|\\bcramps\\b|\\bbruising\\b|\\bobesity\\b|\\bswollen_legs\\b|\\bswollen_blood_vessels\\b|\\bpuffy_face_and_eyes\\b|\\benlarged_thyroid\\b|\\bbrittle_nails\\b|\\bswollen_extremeties\\b|\\bexcessive_hunger\\b|\\bextra_marital_contacts\\b|\\bdrying_and_tingling_lips\\b|\\bslurred_speech\\b|\\bknee_pain\\b|\\bhip_joint_pain\\b|\\bmuscle_weakness\\b|\\bstiff_neck\\b|\\bswelling_joints\\b|\\bmovement_stiffness\\b|\\bspinning_movements\\b|\\bloss_of_balance\\b|\\bunsteadiness\\b|\\bweakness_of_one_body_side\\b|\\bloss_of_smell\\b|\\bbladder_discomfort\\b|\\bfoul_smell_of_urine\\b|\\bcontinuous_feel_of_urine\\b|\\bpassage_of_gases\\b|\\binternal_itching\\b|\\btoxic_look_\\(typhos\\)\\b|\\bdepression\\b|\\birritability\\b|\\bmuscle_pain\\b|\\baltered_sensorium\\b|\\bred_spots_over_body\\b|\\bbelly_pain\\b|\\babnormal_menstruation\\b|\\bdischromic_patches\\b|\\bwatering_from_eyes\\b|\\bincreased_appetite\\b|\\bpolyuria\\b|\\bfamily_history\\b|\\bmucoid_sputum\\b|\\brusty_sputum\\b|\\black_of_concentration\\b|\\bvisual_disturbances\\b|\\breceiving_blood_transfusion\\b|\\breceiving_unsterile_injections\\b|\\bcoma\\b|\\bstomach_bleeding\\b|\\bdistention_of_abdomen\\b|\\bhistory_of_alcohol_consumption\\b|\\bfluid_overload\\.1\\b|\\bblood_in_sputum\\b|\\bprominent_veins_on_calf\\b|\\bpalpitations\\b|\\bpainful_walking\\b|\\bpus_filled_pimples\\b|\\bblackheads\\b|\\bscurring\\b|\\bskin_peeling\\b|\\bsilver_like_dusting\\b|\\bsmall_dents_in_nails\\b|\\binflammatory_nails\\b|\\bblister\\b|\\bred_sore_around_nose\\b|\\byellow_crust_ooze\\b|\\bprognosis\\b)"
+  }
+]
