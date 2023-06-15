@@ -208,3 +208,6 @@ in your terminal.
 * Collaborate: If the owner of the repository requests changes, make the necessary changes in your local copy of the repository and push them to your forked repository. Once you are satisfied with your changes, open a new pull request.
 Remember to always communicate with your collaborators and follow any specific guidelines or conventions set by the repository owner.
 
+## Contributors
+* [Ieesha Deshmukh](https://github.com/ieesha1102)
+* [Amar Gwari](https://github.com/AmarGwari)
