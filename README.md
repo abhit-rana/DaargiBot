@@ -1,8 +1,12 @@
+
+https://github.com/abhit-rana/DaargiBot/assets/88608893/0ef1c763-f783-43c8-850d-fdb795844b0b
+
+https://github.com/abhit-rana/DaargiBot/assets/88608893/53bcffb4-85c2-4fa9-b40c-bbe4b74d36c5
 ## Introduction
 
-A Medical Disease Diagnosis Chatbot where the user first self reports the symptoms and then the Chatbots inquire more symptoms to arrive at the diagnosis result.
+A Medical Disease Diagnosis Chatbot where the user first self-reports the symptoms, and then the Chatbots inquire about more symptoms to arrive at the diagnosis result.
 
-Currently the chatbot supports following 12 Diseases Medical Diagnosis:
+Currently, the chatbot supports the following 12 medical diseases Diagnosis:
 
 Asthma,
 Coronary heart disease, 
@@ -17,7 +21,7 @@ External otitis,
 Conjunctivitis, and 
 Mastitis
 
-_Note_: _We implemented our Chatbot in [MarkovML](https://www.markovml.com/) software, so this repo would also contain code of using the features like Experiment Tracking and Model Recording._
+_Note_: _We implemented our Chatbot in [MarkovML](https://www.markovml.com/) software, so this repo would also contain code for using the features like Experiment Tracking and Model Recording._
 
 ## Demo
 
@@ -25,7 +29,7 @@ _Note_: _We implemented our Chatbot in [MarkovML](https://www.markovml.com/) sof
 
   This implies many diseases contain the symptoms reported in this category. So, the Chatbot would inquire whether other symptoms are observed to narrow down to one or two diseases.
 
-  
+  Uploading Demo1.mp4…
 
 * Self Reported Symptoms are Unique and rare
 
