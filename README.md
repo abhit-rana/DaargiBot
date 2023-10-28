@@ -226,6 +226,3 @@ Remember to always communicate with your collaborators and follow any specific g
 ## Contributors to Code
 * [Ieesha Deshmukh](https://github.com/ieesha1102)
 * [Amar Gwari](https://github.com/AmarGwari)
-
-## Repo Author
-* [Abhit Rana](https://github.com/abhit-rana)
