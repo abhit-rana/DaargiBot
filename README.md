@@ -210,7 +210,7 @@ in your terminal. This will create a local copy of the repository that you can w
 * Create a new branch: Before making any changes, create a new branch by running
 git checkout -b <branch-name>
 in your terminal. This will create a new branch with the name <branch-name> that you can work on. Always make changes in a new branch rather than the main branch.
-* Make changes: Make changes to the code in your local copy of the repository. Once you are done making changes, save and commit them using the command 
+* Make changes: Make changes to the code in your local repository copy. Once you are done making changes, save and commit them using the command 
 git add.
 to add all changed files and 
 git commit -m "your commit message" 
@@ -222,6 +222,10 @@ in your terminal.
 * Collaborate: If the owner of the repository requests changes, make the necessary changes in your local copy of the repository and push them to your forked repository. Once you are satisfied with your changes, open a new pull request.
 Remember to always communicate with your collaborators and follow any specific guidelines or conventions set by the repository owner.
 
-## Contributors
+
+## Contributors to Code
 * [Ieesha Deshmukh](https://github.com/ieesha1102)
 * [Amar Gwari](https://github.com/AmarGwari)
+
+## Repo Author
+* [Abhit Rana](https://github.com/abhit-rana)
